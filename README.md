@@ -1,2 +1,2 @@
-# api.woosal.com
-API interaction page.
+# cheggbot-github.io
+Official Chegg BOT Website.
